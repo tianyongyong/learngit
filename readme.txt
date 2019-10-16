@@ -5,3 +5,4 @@ Git tracks changes of files.
 My boss still prefers SVN.
 Creating a new branch is quick and simple.
 branch Management strategy.
+dev branch stash,then checkout master to debug.
